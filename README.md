@@ -1,7 +1,7 @@
 Beyond The Boundary: Supplemental Material for CHAPTER4
 ==================================
 
-The supplemental material to Chapter 1 contains:
+The supplemental material to Chapter 4 contains:
 
 1. **Quadratic Discriminant Analysis:** QDA code by (c) 2006 by [Max Little](http://www.maxlittle.net/home/index.php Homepage) used in:   
 > M.A. Little, P.E. McSharry, I.M. Moroz, S.J. Roberts (2006). Nonlinear, Biophysically-Informed Speech Pathology    
